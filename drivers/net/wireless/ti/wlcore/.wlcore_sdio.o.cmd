@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/compat_wl18xx/drivers/net/wireless/ti/wlcore/wlcore_sdio.o := arm-fsl-linux-gnueabi-ld -EL    -r -o /home/ubuntu/compat_wl18xx/drivers/net/wireless/ti/wlcore/wlcore_sdio.o /home/ubuntu/compat_wl18xx/drivers/net/wireless/ti/wlcore/sdio.o 

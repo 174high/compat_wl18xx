@@ -1,0 +1,3 @@
+kernel//home/ubuntu/compat_wl18xx/drivers/net/wireless/ti/wlcore/wlcore.ko
+kernel//home/ubuntu/compat_wl18xx/drivers/net/wireless/ti/wlcore/wlcore_spi.ko
+kernel//home/ubuntu/compat_wl18xx/drivers/net/wireless/ti/wlcore/wlcore_sdio.ko

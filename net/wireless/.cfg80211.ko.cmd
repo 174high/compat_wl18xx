@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/compat_wl18xx/net/wireless/cfg80211.ko := arm-fsl-linux-gnueabi-ld -EL -r  -T /home/ubuntu/linux-3.0.101/scripts/module-common.lds --build-id  -o /home/ubuntu/compat_wl18xx/net/wireless/cfg80211.ko /home/ubuntu/compat_wl18xx/net/wireless/cfg80211.o /home/ubuntu/compat_wl18xx/net/wireless/cfg80211.mod.o

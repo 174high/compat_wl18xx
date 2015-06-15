@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/compat_wl18xx/compat/compat.o := arm-fsl-linux-gnueabi-ld -EL    -r -o /home/ubuntu/compat_wl18xx/compat/compat.o /home/ubuntu/compat_wl18xx/compat/main.o /home/ubuntu/compat_wl18xx/compat/cordic.o /home/ubuntu/compat_wl18xx/compat/crc8.o /home/ubuntu/compat_wl18xx/compat/compat_atomic.o 
